@@ -2,7 +2,8 @@
 Python &amp; Data Science
 
 
-* Introduction to Python Programming
+* Introduction to Python Programming and Development Environemts for Data Science
+  (Anaconda-Navigator & Spyder)
 
 * Working on some basic python functionalities
 
